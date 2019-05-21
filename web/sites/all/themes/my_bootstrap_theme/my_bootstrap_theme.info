@@ -1,0 +1,8 @@
+# my_bootstrap_theme
+
+name = my_bootstrap_theme
+description = This is a sub-theme of theme Bootstrap
+core = 7.x
+base theme = bootstrap
+
+;version = "7.x-3.25"
